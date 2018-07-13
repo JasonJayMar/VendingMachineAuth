@@ -1,0 +1,129 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  margin: 0 auto;
+  background-image: url("https://avante.biz/wp-content/uploads/Gradient-Wallpaper/Gradient-Wallpaper-001.jpg");
+}
+img{
+  height: 200px;
+}
+.container .jumbotron{
+  background-image: url("https://wallup.net/wp-content/uploads/2017/11/22/379259-train_station-lights-photography-vending_machine-748x499.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vendingContainer{
+  display: block;
+  margin: 20px auto;
+  width: 386px;
+  height: 500px;
+  border: 1px solid black;
+  background-image: url("http://1920x1080hdwallpapers.com/image/201605/anime/6705/beach-schoolgirl-vending-machine-sand.jpg");
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.itemBox{
+  width: 270px;
+  height: 425px;
+  border: 1px solid black;
+  display: block;
+  margin: -3px 0 0 27px;
+  background: #363636;
+}
+.displayItem{
+  width: 40%;
+  height: 118px;
+  float: left;
+  border: 1px solid #000;
+  margin: 10px 12px;
+}
+#coke{
+  background-color: red;
+}
+#sprite{
+  background-color: green;
+}
+#fanta{
+  background-color: orange;
+}
+#drp{
+  background-color: darkred;
+}
+#pepsi{
+  background-color: blue;
+}
+.displayItem h2{
+  border-bottom: 1px solid #000;
+  background: #eee;
+  height: 44px;
+  margin-top: 0px;
+}
+
+.displayItem span{
+  color: #fff;
+}
+
+.buttonContainer{
+  width: 70px;
+  height: 287px;
+  background-color: #fb4e42;
+  border: 1px solid #000;
+  display: block;
+  margin: -367px 304px;
+  float: left;
+}
+
+.item{
+  background: #fff;
+  border: none;
+  border-radius: 5px;
+  width: 47px;
+}
+
+button{
+  font-size: 12px;
+  background: #fff;
+}
+
+#sumbit{
+  font-size: 12px;
+  background: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Backend Login */
+.container{
+  width: 100%;
+}
+.inventoryList{
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
+
+.inventory{
+  float: left;
+  margin-right: 50px;
+}
+
+.inventoryLi{
+  list-style: none;
+  margin: 5px 0 0 -38px;
+  background: #eee;
+  border-bottom: 1px solid #000;
+}
+
+.stats{
+  float: left;
+  width: 200px;
+}
+
+.stats h1{
+  font-size: 14px;
+}
+
+.stats h2{
+  font-size: 12px;
+}

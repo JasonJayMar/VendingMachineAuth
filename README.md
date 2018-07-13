@@ -10,5 +10,5 @@ you are able to see how much you made selling and how many items are left in the
 
 ## install
 
-1.install npm install
+1. install npm install
 2. run on localhost:8080
